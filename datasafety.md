@@ -1,189 +1,108 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy - Panic Flip</title>
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            color: #333;
-            background-color: #f8f9fa;
-        }
-        .container {
-            background: white;
-            padding: 40px;
-            border-radius: 10px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-        }
-        h1 {
-            color: #2c3e50;
-            border-bottom: 3px solid #3498db;
-            padding-bottom: 10px;
-        }
-        h2 {
-            color: #34495e;
-            margin-top: 30px;
-        }
-        .highlight {
-            background-color: #e8f5e8;
-            padding: 15px;
-            border-left: 4px solid #27ae60;
-            margin: 15px 0;
-        }
-        .warning {
-            background-color: #fff3cd;
-            padding: 15px;
-            border-left: 4px solid #ffc107;
-            margin: 15px 0;
-        }
-        ul {
-            padding-left: 20px;
-        }
-        li {
-            margin-bottom: 5px;
-        }
-        .emoji {
-            font-size: 1.2em;
-        }
-        .footer {
-            margin-top: 40px;
-            padding-top: 20px;
-            border-top: 1px solid #ddd;
-            font-size: 0.9em;
-            color: #666;
-        }
-        .contact-info {
-            background-color: #f1f8ff;
-            padding: 20px;
-            border-radius: 8px;
-            margin: 20px 0;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>🔒 Privacy Policy for Panic Flip</h1>
-        
-        <p><strong>Effective Date:</strong> September 21, 2025<br>
-        <strong>Last Updated:</strong> September 21, 2025</p>
+# Privacy Policy for Panic Flip
 
-        <h2>🎮 Introduction</h2>
-        <p>Welcome to Panic Flip! This Privacy Policy explains how we handle your information when you use our mobile application "Panic Flip" (the "App"). We are committed to protecting your privacy and being transparent about our data practices.</p>
+**Effective Date:** September 21, 2025  
+**Last Updated:** September 21, 2025
 
-        <div class="highlight">
-            <h2>🚫 Information We Collect</h2>
-            <p><strong>We do NOT collect any personal information.</strong></p>
-            
-            <p>Panic Flip is designed to be completely private:</p>
-            <ul>
-                <li><span class="emoji">✅</span> <strong>No personal data collection</strong></li>
-                <li><span class="emoji">✅</span> <strong>No user accounts required</strong></li>
-                <li><span class="emoji">✅</span> <strong>No email addresses stored</strong></li>
-                <li><span class="emoji">✅</span> <strong>No location tracking</strong></li>
-                <li><span class="emoji">✅</span> <strong>No device identifiers collected</strong></li>
-                <li><span class="emoji">✅</span> <strong>No usage analytics</strong></li>
-            </ul>
-        </div>
+## Introduction
 
-        <h2>📱 Data Storage</h2>
-        <p>All game data is stored locally on your device:</p>
-        <ul>
-            <li>Game settings and preferences</li>
-            <li>High scores and achievements</li>
-            <li>Avatar customizations</li>
-            <li>Language preferences</li>
-        </ul>
-        <p>This data never leaves your device and is automatically deleted when you uninstall the app.</p>
+Welcome to Panic Flip! This Privacy Policy explains how we handle your information when you use our mobile application "Panic Flip" (the "App"). We are committed to protecting your privacy and being transparent about our data practices.
 
-        <h2>🔐 Permissions</h2>
-        <p>The app requests minimal permissions:</p>
+## Information We Collect
 
-        <h3>Internet Permission</h3>
-        <ul>
-            <li><strong>Purpose:</strong> Optional online features (if implemented in future updates)</li>
-            <li><strong>Current Use:</strong> Not actively used in version 1.0</li>
-            <li><strong>Your Control:</strong> Can be disabled in Android settings</li>
-        </ul>
+**We do NOT collect any personal information.**
 
-        <h3>Wake Lock Permission</h3>
-        <ul>
-            <li><strong>Purpose:</strong> Keeps screen active during gameplay</li>
-            <li><strong>Use:</strong> Prevents screen from dimming while playing</li>
-            <li><strong>Your Control:</strong> Can be disabled in Android settings</li>
-        </ul>
+Panic Flip is designed to be completely private:
+- ✅ **No personal data collection**
+- ✅ **No user accounts required**
+- ✅ **No email addresses stored**
+- ✅ **No location tracking**
+- ✅ **No device identifiers collected**
+- ✅ **No usage analytics**
 
-        <h2>🚫 Third-Party Services</h2>
-        <p>Panic Flip does NOT use any third-party services that collect data:</p>
-        <ul>
-            <li><span class="emoji">❌</span> No advertising networks</li>
-            <li><span class="emoji">❌</span> No analytics services</li>
-            <li><span class="emoji">❌</span> No crash reporting tools</li>
-            <li><span class="emoji">❌</span> No social media integrations</li>
-            <li><span class="emoji">❌</span> No cloud storage services</li>
-        </ul>
+## Data Storage
 
-        <h2>👶 Children's Privacy</h2>
-        <div class="highlight">
-            <p>Panic Flip is safe for children:</p>
-            <ul>
-                <li>Suitable for all ages (Everyone 3+)</li>
-                <li>No data collection from users of any age</li>
-                <li>No chat features or social interactions</li>
-                <li>No in-app purchases</li>
-                <li>Completely offline gameplay</li>
-            </ul>
-        </div>
+All game data is stored locally on your device:
+- Game settings and preferences
+- High scores and achievements
+- Avatar customizations
+- Language preferences
 
-        <h2>🛡️ Data Security</h2>
-        <p>Since we don't collect data, there's no risk of data breaches. All game data remains securely on your device under Android's security model.</p>
+This data never leaves your device and is automatically deleted when you uninstall the app.
 
-        <h2>🌍 International Users</h2>
-        <p>This privacy policy applies to users worldwide. We comply with:</p>
-        <ul>
-            <li><strong>GDPR</strong> (European Union)</li>
-            <li><strong>LGPD</strong> (Brazil)</li>
-            <li><strong>CCPA</strong> (California)</li>
-            <li>Other applicable privacy regulations</li>
-        </ul>
+## Permissions
 
-        <h2>📝 Changes to This Policy</h2>
-        <p>We may update this Privacy Policy occasionally. Any changes will be reflected by updating the "Last Updated" date. Continued use of the app after changes constitutes acceptance of the updated policy.</p>
+The app requests minimal permissions:
 
-        <div class="contact-info">
-            <h2>📧 Contact Information</h2>
-            <p>If you have questions about this Privacy Policy, please contact us:</p>
-            <p><strong>Developer:</strong> PanicFlip Game Studio<br>
-            <strong>Email:</strong> privacy@panicflip.app<br>
-            <strong>Website:</strong> <a href="https://panicflipgame.github.io/panic-flip">https://panicflipgame.github.io/panic-flip</a></p>
-        </div>
+### Internet Permission
+- **Purpose:** Optional online features (if implemented in future updates)
+- **Current Use:** Not actively used in version 1.0
+- **Your Control:** Can be disabled in Android settings
 
-        <h2>⚖️ Your Rights</h2>
-        <p>Since we don't collect personal data, traditional data rights (access, deletion, portability) don't apply. However, you can:</p>
-        <ul>
-            <li>Uninstall the app to remove all local data</li>
-            <li>Contact us with any privacy concerns</li>
-            <li>Disable app permissions in Android settings</li>
-        </ul>
+### Wake Lock Permission
+- **Purpose:** Keeps screen active during gameplay
+- **Use:** Prevents screen from dimming while playing
+- **Your Control:** Can be disabled in Android settings
 
-        <div class="highlight">
-            <h2>📋 Summary</h2>
-            <p><span class="emoji">🔒</span> <strong>Zero Data Collection:</strong> We don't collect, store, or share any personal information.</p>
-            <p><span class="emoji">📱</span> <strong>Local Storage Only:</strong> All game data stays on your device.</p>
-            <p><span class="emoji">🛡️</span> <strong>Privacy First:</strong> Built with privacy as a core principle.</p>
-            <p><span class="emoji">👶</span> <strong>Kid-Safe:</strong> Appropriate and safe for all ages.</p>
-            
-            <p><strong>Panic Flip respects your privacy. Enjoy the game!</strong></p>
-        </div>
+## Third-Party Services
 
-        <div class="footer">
-            <p><em>This policy is available in multiple languages on our website.</em></p>
-            <p>Generated on September 21, 2025 for Panic Flip v1.0</p>
-        </div>
-    </div>
-</body>
-</html>
+Panic Flip does NOT use any third-party services that collect data:
+- ❌ No advertising networks
+- ❌ No analytics services
+- ❌ No crash reporting tools
+- ❌ No social media integrations
+- ❌ No cloud storage services
+
+## Children's Privacy
+
+Panic Flip is safe for children:
+- Suitable for all ages (Everyone 3+)
+- No data collection from users of any age
+- No chat features or social interactions
+- No in-app purchases
+- Completely offline gameplay
+
+## Data Security
+
+Since we don't collect data, there's no risk of data breaches. All game data remains securely on your device under Android's security model.
+
+## International Users
+
+This privacy policy applies to users worldwide. We comply with:
+- **GDPR** (European Union)
+- **LGPD** (Brazil)
+- **CCPA** (California)
+- Other applicable privacy regulations
+
+## Changes to This Policy
+
+We may update this Privacy Policy occasionally. Any changes will be reflected by updating the "Last Updated" date. Continued use of the app after changes constitutes acceptance of the updated policy.
+
+## Contact Information
+
+If you have questions about this Privacy Policy, please contact us:
+
+**Developer:** PanicFlip Game Studio  
+**Email:** privacy@panicflip.app  
+**Website:** https://panicflipgame.github.io/panic-flip  
+
+## Your Rights
+
+Since we don't collect personal data, traditional data rights (access, deletion, portability) don't apply. However, you can:
+- Uninstall the app to remove all local data
+- Contact us with any privacy concerns
+- Disable app permissions in Android settings
+
+---
+
+## Summary
+
+🔒 **Zero Data Collection:** We don't collect, store, or share any personal information.  
+📱 **Local Storage Only:** All game data stays on your device.  
+🛡️ **Privacy First:** Built with privacy as a core principle.  
+👶 **Kid-Safe:** Appropriate and safe for all ages.  
+
+**Panic Flip respects your privacy. Enjoy the game!**
+
+---
+
+*This policy is available in multiple languages on our website.*
