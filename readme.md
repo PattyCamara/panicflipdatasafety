@@ -24,7 +24,6 @@ Panic Flip is designed to be completely private:
 All game data is stored locally on your device:
 - Game settings and preferences
 - High scores and achievements
-- Avatar customizations
 - Language preferences
 
 This data never leaves your device and is automatically deleted when you uninstall the app.
@@ -51,15 +50,6 @@ Panic Flip does NOT use any third-party services that collect data:
 - ❌ No crash reporting tools
 - ❌ No social media integrations
 - ❌ No cloud storage services
-
-## Children's Privacy
-
-Panic Flip is safe for children:
-- Suitable for all ages (Everyone 3+)
-- No data collection from users of any age
-- No chat features or social interactions
-- No in-app purchases
-- Completely offline gameplay
 
 ## Data Security
 
@@ -99,7 +89,6 @@ Since we don't collect personal data, traditional data rights (access, deletion,
 🔒 **Zero Data Collection:** We don't collect, store, or share any personal information.  
 📱 **Local Storage Only:** All game data stays on your device.  
 🛡️ **Privacy First:** Built with privacy as a core principle.  
-👶 **Kid-Safe:** Appropriate and safe for all ages.  
 
 **Panic Flip respects your privacy. Enjoy the game!**
 
